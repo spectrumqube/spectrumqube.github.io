@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Welcome to SpectrumQube Homepage
+Welcome to SpectrumQube Homepage
 ## Header 2
 ### Header 3
 
